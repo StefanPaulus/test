@@ -7,7 +7,7 @@ namespace testprojekt
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("Hello world");
             string choice;
 
             Console.WriteLine("Are you gay? (yes or no)");
