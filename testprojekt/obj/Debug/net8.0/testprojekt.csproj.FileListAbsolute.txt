@@ -1,0 +1,15 @@
+C:\Users\stefp\OneDrive - Kt. SG BLD\2.klasse\Universität Praktikum\testprojekt\testprojekt\bin\Debug\net8.0\testprojekt.exe
+C:\Users\stefp\OneDrive - Kt. SG BLD\2.klasse\Universität Praktikum\testprojekt\testprojekt\bin\Debug\net8.0\testprojekt.deps.json
+C:\Users\stefp\OneDrive - Kt. SG BLD\2.klasse\Universität Praktikum\testprojekt\testprojekt\bin\Debug\net8.0\testprojekt.runtimeconfig.json
+C:\Users\stefp\OneDrive - Kt. SG BLD\2.klasse\Universität Praktikum\testprojekt\testprojekt\bin\Debug\net8.0\testprojekt.dll
+C:\Users\stefp\OneDrive - Kt. SG BLD\2.klasse\Universität Praktikum\testprojekt\testprojekt\bin\Debug\net8.0\testprojekt.pdb
+C:\Users\stefp\OneDrive - Kt. SG BLD\2.klasse\Universität Praktikum\testprojekt\testprojekt\obj\Debug\net8.0\testprojekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefp\OneDrive - Kt. SG BLD\2.klasse\Universität Praktikum\testprojekt\testprojekt\obj\Debug\net8.0\testprojekt.AssemblyInfoInputs.cache
+C:\Users\stefp\OneDrive - Kt. SG BLD\2.klasse\Universität Praktikum\testprojekt\testprojekt\obj\Debug\net8.0\testprojekt.AssemblyInfo.cs
+C:\Users\stefp\OneDrive - Kt. SG BLD\2.klasse\Universität Praktikum\testprojekt\testprojekt\obj\Debug\net8.0\testprojekt.csproj.CoreCompileInputs.cache
+C:\Users\stefp\OneDrive - Kt. SG BLD\2.klasse\Universität Praktikum\testprojekt\testprojekt\obj\Debug\net8.0\testprojekt.sourcelink.json
+C:\Users\stefp\OneDrive - Kt. SG BLD\2.klasse\Universität Praktikum\testprojekt\testprojekt\obj\Debug\net8.0\testprojekt.dll
+C:\Users\stefp\OneDrive - Kt. SG BLD\2.klasse\Universität Praktikum\testprojekt\testprojekt\obj\Debug\net8.0\refint\testprojekt.dll
+C:\Users\stefp\OneDrive - Kt. SG BLD\2.klasse\Universität Praktikum\testprojekt\testprojekt\obj\Debug\net8.0\testprojekt.pdb
+C:\Users\stefp\OneDrive - Kt. SG BLD\2.klasse\Universität Praktikum\testprojekt\testprojekt\obj\Debug\net8.0\testprojekt.genruntimeconfig.cache
+C:\Users\stefp\OneDrive - Kt. SG BLD\2.klasse\Universität Praktikum\testprojekt\testprojekt\obj\Debug\net8.0\ref\testprojekt.dll
